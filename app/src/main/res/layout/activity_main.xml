@@ -14,13 +14,13 @@
         android:src="@drawable/thumbnail_large"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.657"
+        app:layout_constraintHorizontal_bias="0.493"
         app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
         android:id="@+id/spte"
-        android:layout_width="316dp"
-        android:layout_height="109dp"
+        android:layout_width="340dp"
+        android:layout_height="130dp"
         android:layout_marginTop="40dp"
         android:fontFamily="@font/bungee_inline"
         android:text="Work-in-Out"

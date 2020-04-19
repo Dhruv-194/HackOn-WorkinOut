@@ -9,7 +9,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Exercises"></activity>
+        <activity android:name=".Final"></activity>
+        <activity android:name=".Act10" />
+        <activity android:name=".Act9" />
+        <activity android:name=".Act8" />
+        <activity android:name=".Act7" />
+        <activity android:name=".Act6" />
+        <activity android:name=".Act5" />
+        <activity android:name=".Act4" />
+        <activity android:name=".Act3" />
+        <activity android:name=".Act2" />
+        <activity android:name=".Act1" />
+        <activity android:name=".Exercises" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,6 +32,23 @@
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
+
+        <receiver android:name=".BootReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+                <category android:name="android.intent.category.HOME" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".AlarmNotificationReceiver"
+            android:enabled="true"/>
+
+        <service
+            android:name=".MyService"
+            android:enabled="true"
+            android:exported="true"></service>
     </application>
 
 </manifest>
