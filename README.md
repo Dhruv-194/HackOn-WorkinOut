@@ -22,3 +22,8 @@ plank: 40 seconds
 Break duration is fixed: 10 seconds
 
 App will play music for the duration of exercise. To indicate that there is a break, music will stop and will resume as soon as break is over.
+
+
+
+
+
