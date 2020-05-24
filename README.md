@@ -23,7 +23,7 @@ Break duration is fixed: 10 seconds
 
 App will play music for the duration of exercise. To indicate that there is a break, music will stop and will resume as soon as break is over.
 
-
-
+# Screenshots of the App 
+<img src="Screenshot_20200419-223123.png" width = "200" height = "400"  >	 							<img src="Screenshot_20200419-224510.png" width = "200" height = "400" hspace="20" > 							<img src = "Screenshot_20200419-224528.png" width = "200" height = "400"  >
 
 
