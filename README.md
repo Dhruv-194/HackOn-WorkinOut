@@ -1,11 +1,10 @@
-# HackOn-WorkinOut 
+# Work-in-Out App
 
-This is official submission for the HackOn Hackathon. 
+This is official submission for the Hackathon. 
 
 App name- Work-in-Out 
 
-Domain - i) Helping people who are working remotely from home 
-	ii) Supporting at risk and quarantined people 
+Domain - The app is built to  Helping people who are working remotely from home and supporting at risk and quarantined people during the COVID-19 pandemic.
 
 Descritption - 
 
