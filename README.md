@@ -4,7 +4,7 @@ This is official submission for the Hackathon.
 
 App name- Work-in-Out 
 
-Domain - The app is built to  Helping people who are working remotely from home and supporting at risk and quarantined people during the COVID-19 pandemic.
+Domain - The app is built towards Health Sector of people by Re-imagining affordable & accessible healthcare for all. It is basically for Helping people who are working remotely from home and supporting at risk and quarantined people during the COVID-19 pandemic.
 
 Descritption - 
 
